@@ -16,7 +16,9 @@ Sharing HTML and CSS resources
 # HTML-CSS Assignment 
 
 * HTML Assignment - Create a Simple html layout as shown in the image with basic html tags.
+
 ![alt text](https://github.com/bangalorebyte-cohort20/Weekend-Assignment/blob/master/assingments/html%20assignment.png)
 
-CSS Assignments - Create a Simple HTML with CSS Layout as shown in the image using CSS Selectors
+* CSS Assignments - Create a Simple HTML with CSS Layout as shown in the image using CSS Selectors
+
 ![alt text](https://github.com/bangalorebyte-cohort20/Weekend-Assignment/blob/master/assingments/css%20assignment.png)
