@@ -22,3 +22,8 @@ Sharing HTML and CSS resources
 * CSS Assignments - Create a Simple HTML with CSS Layout as shown in the image using CSS Selectors
 
 ![alt text](https://github.com/bangalorebyte-cohort20/Weekend-Assignment/blob/master/assingments/css%20assignment.png)
+
+# Bootstrap Assignment
+
+* Create an HTML UI with Bootstrap like the image shown below.
+![alt-text](https://github.com/bangalorebyte-cohort21-fs/HTML-CSS/blob/master/UI%20assignment%20Bootstrap.png)
